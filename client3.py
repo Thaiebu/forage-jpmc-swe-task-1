@@ -26,7 +26,7 @@ import urllib.request
 QUERY = "http://localhost:8080/query?id={}"
 
 # 500 server request
-N = 5
+N = 500
 
 
 def getDataPoint(quote):
